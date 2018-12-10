@@ -3,7 +3,7 @@ import csv
 
 
 #import csv file
-csvpath = os.path.join("..", "PyBank", "budget_data.csv")
+csvpath = os.path.join("..", "Resources", "budget_data.csv")
 
 #create lists to store data
 months = []
