@@ -1,0 +1,6 @@
+Financial Analysis -----------------------------
+Total Months: 86 
+Total Volume: $38382578 
+Average Change: $-2315.12 
+Greatest decrease in profits: 13-Sep ($ 1926159)
+Greatest increase in profits: 12-Feb ($ -2196167)
